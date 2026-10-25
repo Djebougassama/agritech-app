@@ -1,0 +1,244 @@
+{
+    "cultures_reference": [
+      {
+        "nom": "Riz",
+        "arrosage_par_jour": 3,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Novembre", "Décembre"],
+        "besoins": ["Sol inondable", "Soleil", "Engrais organique"],
+        "conseil": "🌾 Votre riz a soif ! 3 arrosages par jour maintiennent le champ bien humide. Pensez à garder 5 cm d'eau pour des grains bien remplis !"
+      },
+      {
+        "nom": "Maïs",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Mars", "Avril"],
+        "mois_recolte": ["Juillet", "Août"],
+        "besoins": ["Sol drainé", "Plein soleil", "Engrais azoté"],
+        "conseil": "🌽 Votre maïs adore le soleil ! 2 arrosages quotidiens en période sèche lui donneront des épis dodus. Évitez l’eau stagnante !"
+      },
+      {
+        "nom": "Arachide",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Septembre", "Octobre"],
+        "besoins": ["Sol sableux", "Peu d'eau", "Pas d'engrais chimique"],
+        "conseil": "🥜 Votre arachide est délicate ! 1 arrosage par jour pendant la floraison suffit. Trop d’eau = gousses pourries. Soyez vigilant !"
+      },
+      {
+        "nom": "Manioc",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Avril", "Mai"],
+        "mois_recolte": ["Janvier", "Février"],
+        "besoins": ["Sol profond", "Peu d'entretien"],
+        "conseil": "🪴 Votre manioc est résistant ! 1 arrosage quotidien suffit. Laissez-le tranquille, il pousse presque tout seul !"
+      },
+      {
+        "nom": "Banane plantain",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Toute l'année"],
+        "mois_recolte": ["12-15 mois après"],
+        "besoins": ["Sol riche", "Eau régulière"],
+        "conseil": "🍌 Votre bananier a besoin d’amour ! 2 arrosages par jour gardent ses feuilles bien vertes. Paillez pour une humidité constante !"
+      },
+      {
+        "nom": "Tomate",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Septembre", "Octobre"],
+        "mois_recolte": ["Janvier", "Février"],
+        "besoins": ["Sol fertile", "Tuteur"],
+        "conseil": "🍅 Vos tomates méritent du soin ! 2 arrosages au pied chaque jour pour éviter les maladies. Des tuteurs = des plants solides !"
+      },
+      {
+        "nom": "Oignon",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Octobre", "Novembre"],
+        "mois_recolte": ["Février", "Mars"],
+        "besoins": ["Sol léger", "Peu d'eau en fin de cycle"],
+        "conseil": "🧅 Votre oignon aime la modération ! 1 arrosage quotidien au début, puis réduisez pour des bulbes bien fermes. Patience = saveur garantie !"
+      },
+      {
+        "nom": "Gombo",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Avril", "Mai"],
+        "mois_recolte": ["Juillet", "Août"],
+        "besoins": ["Sol léger", "Chaleur"],
+        "conseil": "🌿 Votre gombo est prêt à briller ! 1 arrosage par jour et une cueillette jeune (5-10 cm) pour des gousses tendres. Régalez-vous !"
+      },
+      {
+        "nom": "Piment",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mars", "Avril"],
+        "mois_recolte": ["Juillet", "Août"],
+        "besoins": ["Sol drainé", "Soleil"],
+        "conseil": "🌶️ Votre piment a du caractère ! 1 arrosage quotidien, puis espacez en fin de cycle pour des piments extra-forts. Chaud devant !"
+      },
+      {
+        "nom": "Aubergine",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mars", "Avril"],
+        "mois_recolte": ["Juillet", "Août"],
+        "besoins": ["Sol riche", "Tuteur"],
+        "conseil": "🍆 Votre aubergine veut de l’attention ! 1 arrosage par jour et retirez les premières fleurs pour booster sa croissance. À table bientôt !"
+      },
+      {
+        "nom": "Patate douce",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Novembre", "Décembre"],
+        "besoins": ["Sol meuble", "Peu d'eau"],
+        "conseil": "🍠 Votre patate douce est facile à vivre ! 1 arrosage léger par jour suffit. Trop d’eau = tubercules mous. Laissez-la s’épanouir !"
+      },
+      {
+        "nom": "Igname",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mars", "Avril"],
+        "mois_recolte": ["Octobre", "Novembre"],
+        "besoins": ["Sol profond", "Tuteur"],
+        "conseil": "🥔 Votre igname a besoin d’espace ! 1 arrosage quotidien et un tuteur solide. Récoltez quand les feuilles jaunissent. Patience récompensée !"
+      },
+      {
+        "nom": "Sorgho",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Octobre", "Novembre"],
+        "besoins": ["Sol sec", "Peu d'entretien"],
+        "conseil": "🌾 Votre sorgho est un survivant ! 1 arrosage en période sèche seulement. Cette céréale brave la chaleur comme un champion !"
+      },
+      {
+        "nom": "Mil",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Octobre", "Novembre"],
+        "besoins": ["Sol pauvre", "Peu d'eau"],
+        "conseil": "🌱 Votre mil est low-maintenance ! 1 arrosage si le sol est très sec. Une culture idéale pour les sols arides. Résilience garantie !"
+      },
+      {
+        "nom": "Fonio",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Septembre", "Octobre"],
+        "besoins": ["Sol pauvre", "Peu d'eau"],
+        "conseil": "🌿 Votre fonio est une perle rare ! 1 arrosage léger suffit. Cette céréale ancestrale pousse même sur les terres difficiles. Magique !"
+      },
+      {
+        "nom": "Haricot (Niébé)",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Août", "Septembre"],
+        "besoins": ["Sol léger", "Tuteur"],
+        "conseil": "🟢 Vos haricots sont prêts à grimper ! 1 arrosage quotidien et un tuteur pour les soutenir. Cueillette régulière = récolte abondante !"
+      },
+      {
+        "nom": "Sésame",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Septembre", "Octobre"],
+        "besoins": ["Sol sableux", "Peu d'eau"],
+        "conseil": "⚪ Votre sésame est plein de promesses ! 1 arrosage léger par jour. Récoltez quand les capsules s’ouvrent. Des graines dorées en perspective !"
+      },
+      {
+        "nom": "Mangue",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["Avril", "Mai"],
+        "besoins": ["Sol profond", "Taille annuelle"],
+        "conseil": "🥭 Votre manguier est un investissement ! 2 arrosages quotidiens pour les jeunes plants. Adultes, ils résistent seuls à la sécheresse. Future récolte juteuse !"
+      },
+      {
+        "nom": "Ananas",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["18-24 mois après"],
+        "besoins": ["Sol acide", "Peu d'eau"],
+        "conseil": "🍍 Votre ananas prend son temps ! 1 arrosage léger par jour. Évitez l’excès d’eau pour des fruits sucrés. La patience est mère de vertu !"
+      },
+      {
+        "nom": "Citron",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["Toute l'année"],
+        "besoins": ["Sol drainé", "Engrais citrus"],
+        "conseil": "🍋 Votre citronnier aime les soins ! 2 arrosages quotidiens pour les jeunes arbres. Des agrumes parfumés toute l’année. Que du bonheur !"
+      },
+      {
+        "nom": "Papaye",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Mars", "Avril"],
+        "mois_recolte": ["9-12 mois après"],
+        "besoins": ["Sol riche", "Protection vent"],
+        "conseil": "🍈 Votre papayer est généreux ! 2 arrosages par jour et un brise-vent. Des fruits vitaminés en moins d’un an. Naturellement doux !"
+      },
+      {
+        "nom": "Avocat",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["Février", "Mars"],
+        "besoins": ["Sol profond", "Drainage"],
+        "conseil": "🥑 Votre avocatier mérite des égards ! 2 arrosages quotidiens pour les jeunes plants. Un drainage parfait évite les racines noyées. Future récolte crémeuse !"
+      },
+      {
+        "nom": "Palmier à huile",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["3-4 ans après"],
+        "besoins": ["Sol humide", "Espace"],
+        "conseil": "🌴 Votre palmier est un géant patient ! 2 arrosages quotidiens au démarrage. Adulte, il ne demande qu’un peu d’eau en saison sèche. Or vert en perspective !"
+      },
+      {
+        "nom": "Café",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["Novembre", "Décembre"],
+        "besoins": ["Sol volcanique", "Ombre"],
+        "conseil": "☕ Votre caféier est délicat ! 1 arrosage quotidien sous ombrage. Des cerises bien rouges = un café aromatique. Cultivez votre énergie !"
+      },
+      {
+        "nom": "Cacao",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Juillet", "Août"],
+        "mois_recolte": ["Octobre", "Novembre"],
+        "besoins": ["Sol forestier", "Humidité"],
+        "conseil": "🍫 Votre cacaoyer est un trésor ! 2 arrosages quotidiens pour un sol toujours humide. La magie du chocolat commence ici !"
+      },
+      {
+        "nom": "Coton",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Novembre", "Décembre"],
+        "besoins": ["Sol léger", "Engrais"],
+        "conseil": "🧵 Votre coton est précieux ! 2 arrosages quotidiens pendant la croissance. Des capsules bien éclatées = une fibre de qualité. Douceur naturelle !"
+      },
+      {
+        "nom": "Chou",
+        "arrosage_par_jour": 2,
+        "mois_semis": ["Octobre", "Novembre"],
+        "mois_recolte": ["Février", "Mars"],
+        "besoins": ["Sol riche", "Eau régulière"],
+        "conseil": "🥬 Votre chou est gourmand ! 2 arrosages quotidiens pour des feuilles tendres. Un paillage garde la fraîcheur. Santé garantie !"
+      },
+      {
+        "nom": "Carotte",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Septembre", "Octobre"],
+        "mois_recolte": ["Janvier", "Février"],
+        "besoins": ["Sol sableux", "Peu d'engrais"],
+        "conseil": "🥕 Votre carotte aime la légèreté ! 1 arrosage léger par jour. Un sol trop lourd = carottes fourchues. Des racines croquantes en vue !"
+      },
+      {
+        "nom": "Pois de terre",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Mai", "Juin"],
+        "mois_recolte": ["Septembre", "Octobre"],
+        "besoins": ["Sol drainé", "Peu d'eau"],
+        "conseil": "🟤 Votre pois de terre est discret mais vital ! 1 arrosage léger suffit. Comme l’arachide, il enrichit le sol. Double bénéfice !"
+      },
+      {
+        "nom": "Taro",
+        "arrosage_par_jour": 1,
+        "mois_semis": ["Avril", "Mai"],
+        "mois_recolte": ["Novembre", "Décembre"],
+        "besoins": ["Sol humide", "Ombre partielle"],
+        "conseil": "🍠 Votre taro adore l’humidité ! 1 arrosage quotidien à l’ombre. Des feuilles géantes et des tubercules nourrissants. Tradition et nutrition !"
+      }
+    ]
+  }

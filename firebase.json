@@ -1,0 +1,46 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "agritech-d19ab",
+          "appId": "1:601351663798:android:ce824dd66809182d553617",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "agritech-d19ab",
+          "configurations": {
+            "android": "1:601351663798:android:ce824dd66809182d553617",
+            "ios": "1:601351663798:ios:8b51ff9add95048e553617",
+            "macos": "1:601351663798:ios:8b51ff9add95048e553617",
+            "web": "1:601351663798:web:875de6a402929590553617",
+            "windows": "1:601351663798:web:febfb5c19795c710553617"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
